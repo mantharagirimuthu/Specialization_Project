@@ -1,7 +1,7 @@
 # Bank Application
 
 
-**PPT:** [Bank Angular Ppt.pptx](https://github.com/mantharagirimuthu/Specialization_Project/files/7984194/Bank.Angular.Ppt.pptx)
+**PPT:** [Bank Angular Ppt](https://github.com/mantharagirimuthu/Specialization_Project/files/7984194/Bank.Angular.Ppt.pptx)
 
 **Bank Application Frontend :** [Bank Application Frontend](https://github.com/mantharagirimuthu/Bank-Angular-FrontEnd.git)
 
